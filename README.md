@@ -27,13 +27,13 @@ cd transportadora-rust
 Defina a URL do banco de dados PostgreSQL (já no **MKDB**):
 
 ```bash
-setx DATABASE_URL "postgresql://dngujnfv:wrcetyfduzvhclrfzfcn@alpha.mkdb.sh:5432/qxfdlhqs"
+setx DATABASE_URL "postgresql://usuario:senha@host:5432/banco"
 ```
 
 No Linux/MacOS, use:
 
 ```bash
-export DATABASE_URL="postgresql://dngujnfv:wrcetyfduzvhclrfzfcn@alpha.mkdb.sh:5432/qxfdlhqs"
+export DATABASE_URL="postgresql://usuario:senha@host:5432/banco"
 ```
 
 ### 3️⃣ Instalar dependências
