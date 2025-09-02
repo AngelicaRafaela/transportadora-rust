@@ -1,4 +1,3 @@
-````markdown
 # 🚛 Transportadora Rust
 
 Sistema de gerenciamento de transportadora desenvolvido em **Rust**, com integração ao **PostgreSQL** e uso do **SQLx** para migrations e consultas.  
