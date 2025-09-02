@@ -1,5 +1,3 @@
-Perfeito 🚀 Vou te preparar um **README.md** completinho em um único arquivo, que você pode copiar e colar direto no projeto:
-
 ````markdown
 # 🚛 Transportadora Rust
 
